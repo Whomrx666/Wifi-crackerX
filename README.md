@@ -48,7 +48,7 @@ $ sudo python3 Wifi-crackerX.py
 | **About Me** |✔️ |
 ---------
 
-##Note
+## Note
 Use a rooted cellphone or run it on a Linux-based terminal
 
 ## Observation

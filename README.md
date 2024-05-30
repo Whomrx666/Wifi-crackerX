@@ -2,7 +2,7 @@
 ![Wifi-crackerX preview](Wifi-crackerX.jpg)
 <h2><img src="https://img.shields.io/badge/Author-Mr.X-blueviolet"/>
 <img src="https://img.shields.io/badge/Wifi-crackerX-red"/>
-<img src="https://img.shields.io/badge/Made%20with-Python%20%20-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.0cf"/>
+<img src="https://img.shields.io/badge/Made%20with-Python%20and%20Bash-yellowgreen"/> <img src="https://img.shields.io/badge/Version-1.0cf"/>
 <img src="https://img.shields.io/github/issues/Whomrx666/Wifi-crackerX.svg?color=%23ff0000"/> <img
 <img src="https://img.shields.io/github/issues-closed/Whomrx666/Wifi-crackerX.svg?color=%2300cc00"/> <img
 <img src="https://img.shields.io/github/forks/Whomrx666/Wifi-crackerX.svg?color=%23ffff00"/> <img
